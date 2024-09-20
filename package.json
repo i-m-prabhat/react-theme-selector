@@ -1,7 +1,7 @@
 {
   "name": "react-theme-selector",
-  "version": "1.0.0",
-  "description": "this is the package for react to selct theme",
+  "version": "1.0.2",
+  "description": "A flexible and efficient React package that allows dynamic selection of multiple themes, headers, and footers using React Context. It supports asynchronous asset fetching, lazy-loaded components, and memoized values for optimal performance.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
