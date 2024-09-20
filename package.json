@@ -1,0 +1,29 @@
+{
+  "name": "react-theme-selector",
+  "version": "1.0.0",
+  "description": "this is the package for react to selct theme",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-m-prabhat/react-theme-selector.git"
+  },
+  "keywords": [
+    "react",
+    "react theme selector",
+    "react theme",
+    "theme selector"
+  ],
+  "author": "Prabhat Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i-m-prabhat/react-theme-selector/issues"
+  },
+  "homepage": "https://github.com/i-m-prabhat/react-theme-selector#readme",
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1"
+  }
+}
