@@ -1,6 +1,6 @@
 {
   "name": "react-theme-selector",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A flexible and efficient React package that allows dynamic selection of multiple themes, headers, and footers using React Context. It supports asynchronous asset fetching, lazy-loaded components, and memoized values for optimal performance.",
   "main": "src/index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "theme selector"
   ],
   "author": "Prabhat Patel",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/i-m-prabhat/react-theme-selector/issues"
   },
